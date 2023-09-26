@@ -30,6 +30,11 @@
         <sys_update_name>sys_db_object_69cc38112ff0311058ad59a72799b61a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-20 16:43:26</sys_updated_on>
+        <u_integer_2/>
+        <u_journal_4/>
+        <u_reference_1/>
+        <u_reference_2/>
+        <u_string_3/>
         <update_access>false</update_access>
         <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">903d78512ff0311058ad59a72799b672</user_role>
         <ws_access>true</ws_access>
